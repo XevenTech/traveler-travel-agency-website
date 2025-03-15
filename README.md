@@ -1,4 +1,4 @@
-# Traveler - A Completely responsive travel agency website template with HTML, CSS, Bootstrap, JavaScript and PHP.
+# Travel & Tour Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/responsive-agency-website)
 [![Stars](https://img.shields.io/github/stars/XevenTech/responsive-agency-website?style=social)](https://github.com/XevenTech/responsive-agency-website/stargazers)
@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Portfolio
+## Installation
 
 To install, follow these steps:
 
