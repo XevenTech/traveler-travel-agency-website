@@ -1,8 +1,8 @@
 # Traveler - A Completely responsive travel agency website template with HTML, CSS, Bootstrap, JavaScript and PHP.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/responsive-agency-website)
-![GitHub stars](https://img.shields.io/github/stars/xeventech/responsive-agency-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/xeventech/responsive-agency-website?style=social)
+[![Stars](https://img.shields.io/github/stars/XevenTech/responsive-agency-website?style=social)](https://github.com/XevenTech/responsive-agency-website/stargazers)
+[![Fork](https://img.shields.io/github/forks/XevenTech/responsive-agency-website?style=social)](https://github.com/XevenTech/responsive-agency-website/forks)
 [![YouTube Video Views](https://img.shields.io/youtube/views/dBbnMNA0MVc?style=social)](https://youtu.be/dBbnMNA0MVc)
 
 A fully responsive and awesome personal portfolio website, responsive for all devices.
